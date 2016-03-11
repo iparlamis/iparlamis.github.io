@@ -48,21 +48,21 @@ nav ul {
 nav li {
 	font-family: arial, helvetica, sans-serif;
 	color:#000000;
-	font-size: 29px;
+	font-size: 25px;
 	padding-bottom: 15px;
 }
 
 #resume {
 	font-family: arial, helvetica, sans-serif;
 	color:#000000;
-	font-size: 29px;
+	font-size: 25px;
 	padding-bottom: 15px;
 }
 
 #contact {
 	font-family: arial, helvetica, sans-serif;
 	color:#000000;
-	font-size: 29px;
+	font-size: 25px;
 	padding-bottom: 15px;
 }
 
@@ -71,6 +71,7 @@ nav li a {
 	font-weight: normal;
 	color:#000000;
 	font-size: 16px;
+	padding-bottom: 5px
 }
 
 a:link, a:visited {
@@ -109,59 +110,26 @@ a:active {
 	background-color:#FFFFFF;
 	min-height: 600px;
 	height: 1%;
-	font-family: arial, helvetica, sans-serif;
-	
+	font-family: arial, helvetica, sans-serif;	
 }
 
-p	{
+img.homepage {
+	height:500;
+	width:auto
+}
+
+#imgcaption1 {
 	margin: 0 0 9px 0;
 	line-height: 1.4;
     font-family: arial, helvetica, sans-serif;
-    font-size:15px;
+    font-size:12px;
+}
+
+#contactinfo {
+	margin:1em 0 0 1em;
+	line-height:1.4;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 20px
 }
 	
 
-
-
-
-
-
-	
-#detaillist ul {
-	display:inline;
-	font-family:Helvetica, Arial, sans-serif;
-	font-weight: bold;
-	color:#d33737;
-	padding:0px;
-	font-size:12px;
-	}
-	
-	#detaillist ul li {
-	display:inline;
-	font-family:Helvetica, Arial, sans-serif;
-	font-weight: bold;
-	color:#d33737;
-	list-style: none;
-	padding:0px;
-	font-size:12px;
-	}
-
-#detaillist {
-	display:inline;
-	font-family:Helvetica, Arial, sans-serif;
-	font-weight: bold;
-	color:#d33737;
-	list-style: none;
-	padding:0px;
-	font-size:12px;
-	}
-	
-img.homepage {
-	height:500;
-	width:auto}
-	
-#thumb {
-	padding:0px 10px 5px 0px;
-	display:inline;
-	
-	}
